@@ -1,13 +1,14 @@
+# Peer-graded Assignment: Getting and Cleaning Data
 
 This is my submission for Peer Graded Assignment: Getting and Cleaning Data Course Project.
 
-Dataset
+# Dataset
 
 Data for this project was obtain from the Coursera assignment instructions. Data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The data for the project can be obtained via the link below:
 
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
 
-Files
+# Files
 
 - CodeBook.md  a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information
 
