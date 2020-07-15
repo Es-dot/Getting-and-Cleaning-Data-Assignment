@@ -4,7 +4,7 @@ This is my submission for Peer Graded Assignment: Getting and Cleaning Data Cour
 
 ## Dataset
 
-Data for this project was obtain from the Coursera assignment instructions. Data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The data for the project can be obtained via the link below:
+Data for this project was obtain from the Coursera assignment instructions. The data represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The data for the project can be obtained via the link below:
 
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
 
